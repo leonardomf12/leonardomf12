@@ -3,6 +3,8 @@
 ## Hello 👋
 I'm a 24-year-old **Machine Learning Engineer** based in Porto, Portugal 🇵🇹
 </div>
+
+
 <!-- All badges in: https://github.com/inttter/md-badges -->
 <p align="center">
     <!-- LinkedIn -->
