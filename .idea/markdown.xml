@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MarkdownSettings">
+    <option name="customStylesheetText" value="@font-face {&#10;    font-family: &quot;Noto Sans CJK SC&quot;;&#10;}&#10;&#10;body {&#10;    background-color: white;&#10;    -webkit-text-size-adjust: 100%;&#10;    -fx-text-size-adjust: 100%;&#10;    -ms-text-size-adjust: 100%;&#10;    text-size-adjust: 100%;&#10;    color: #333;&#10;    font-family: &quot;Noto Sans CJK SC&quot;;&#10;    font-size: 16px;&#10;    line-height: 1.6;&#10;    word-wrap: break-word;&#10;}&#10;&#10;a {&#10;    background-color: transparent;&#10;}&#10;&#10;a:active,&#10;a:hover {&#10;    outline: 0;&#10;}&#10;&#10;strong {&#10;    font-weight: bold;&#10;}&#10;&#10;h1 {&#10;    font-size: 2em;&#10;    margin: 0.67em 0;&#10;}" />
+  </component>
+</project>
