@@ -24,7 +24,7 @@ I'm a 24-year-old **Machine Learning Engineer** based in Porto, Portugal ğŸ‡µğŸ‡
         <img src="https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06" alt="LeetCode Badge">
     </a>
     <!-- CV / Resume -->
-    <a href="https://drive.google.com/file/d/1RgbmoEJG1H_FnktUERmIjxw6MOie6RtL/view?usp=sharing">
+    <a href="https://drive.google.com/file/d/1c3-C3viielQmXa0-OkfMf-8Oii3rRMGK/view?usp=sharing">
         <img src="https://img.shields.io/badge/CV%20/%20Resume-D24939?logo=Codemagic&logoColor=fff" alt="CV Badge">
     </a>
     <!-- Personal Website -->
